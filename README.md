@@ -14,6 +14,7 @@
   If you've actually read this far, well then I have a couple things to say to you:
   
   1 - Why?? There's PLENTY of better things you could have done with your time.
+  
   2 - Congrats on making it this far, I guess... As a reward, here's a joke:
   
- # "There are 10 kinds of people in this world: Those who underestand base-2, those who don't, and those who weren't expecting a base-3 joke"
+"There are 10 kinds of people in this world: Those who underestand base-2, those who don't, and those who weren't expecting a base-3 joke"
