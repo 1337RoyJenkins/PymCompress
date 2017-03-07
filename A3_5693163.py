@@ -12,7 +12,7 @@ Written by Lukas Horak
 Student number 5693163
 
 This program has been posted on my GitHub! The link is included below:
-
+https://github.com/1337RoyJenkins/PymCompress
 '''
 ###################################################################################################################
 # Function Declarations and initial declarations
